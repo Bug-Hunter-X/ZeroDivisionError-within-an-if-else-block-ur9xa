@@ -1,0 +1,1 @@
+This repository demonstrates a Python function that contains a subtle ZeroDivisionError. The error occurs within an if/else statement making it slightly harder to spot than a more obvious division by zero.  The `bug.py` file contains the buggy code, and `bugSolution.py` demonstrates the fix.
